@@ -1,0 +1,14 @@
+- name: 關於我們
+  link: /about/
+- name: 解決方案
+  link: /solutions/
+- name: 案例介紹
+  link: /cases/
+- name: 團隊
+  link: /team/
+- name: 知識專欄
+  link: /blog/
+- name: 投資人專區
+  link: /investors/
+- name: 聯繫我們
+  link: /contact/

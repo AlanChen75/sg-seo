@@ -1,0 +1,34 @@
+title: "台灣智綠 SmartGreen｜淨零建築整合顧問與能源管理"
+email: "info@smartgreen.tw"
+description: "專注於淨零建築、ISO 50001 能源管理、碳盤查（ISO 14064/14067/14068）、IFRS S1/S2 永續揭露、NILM 智慧製造與再生能源交易的整合顧問。"
+baseurl: ""   # 若為個人首頁 repo 保持空白；若是 /repo 名稱，請填 "/repo"
+url: "https://<你的GitHub帳號>.github.io"
+
+markdown: kramdown
+remote_theme: andrewbanchich/forty-jekyll-theme
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# 用於 jekyll-seo-tag
+twitter:
+  username: smartgreen_tw
+  card: summary_large_image
+
+logo: /assets/img/logo.png
+
+# 自訂變數
+company:
+  name: 台灣智綠科技股份有限公司
+  legal_name: 台灣智綠科技股份有限公司
+  brand: SmartGreen
+  phone: "+886-2-0000-0000"
+  email: "info@smartgreen.tw"
+  address: "407 台中市西屯區成都路 283 號"
+  url: "https://<你的GitHub帳號>.github.io"
+  same_as:
+    - "https://www.linkedin.com/company/smartgreen"
+    - "https://www.facebook.com/smartgreen"
